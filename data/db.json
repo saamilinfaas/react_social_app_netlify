@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "dateTime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "dateTime": "July 01, 2021 11:17:36 AM",
+      "body": "I attend a DeFi blockchain event"
+    },
+    {
+      "id": 3,
+      "dateTime": "June 02, 2024 7:53:27 PM",
+      "body": "Web3 global summit next week",
+      "title": "My 3rd Post ID:3"
+    },
+    {
+      "id": 4,
+      "dateTime": "June 02, 2024 7:41:49 PM",
+      "body": "ETH will outperform BTC",
+      "title": "My Fourth Post"
+    }
+  ]
+}
